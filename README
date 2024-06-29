@@ -36,3 +36,9 @@ I could get this model accurate up to 96%.
 This will initialize the model and start training. Periodically a matplotlib
 window will be opened showing a sample of test images and the model prediction
 to visualize the model's accuracy.
+
+----
+
+This project is licensed under the MIT license
+
+(c) 2024 Lucas Birkert
