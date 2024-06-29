@@ -1,0 +1,7 @@
+/bin
+/etc
+/lib
+/lib64
+/share
+/include
+pyenv.cfg
