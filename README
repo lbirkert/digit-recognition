@@ -22,12 +22,14 @@ in the research paper of Le Cun et al.
 
 I could get this model accurate up to 96%.
 
+----
 
 ## dependencies ##
 
 - numpy
 - matplotlib
 
+----
 
 ## running ##
 
