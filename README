@@ -22,6 +22,8 @@ in the research paper of Le Cun et al.
 
 I could get this model accurate up to 96%.
 
+This project is licensed under the MIT license.
+
 ----
 
 ## dependencies ##
@@ -40,7 +42,5 @@ window will be opened showing a sample of test images and the model prediction
 to visualize the model's accuracy.
 
 ----
-
-This project is licensed under the MIT license
 
 (c) 2024 Lucas Birkert - All Rights Reserved
