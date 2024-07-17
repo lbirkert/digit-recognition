@@ -40,4 +40,4 @@ to visualize the model's accuracy.
 
 ----
 
-(c) 2024 Lucas Birkert - All Rights Reserved
+&copy; 2024 Lucas Birkert - All Rights Reserved
