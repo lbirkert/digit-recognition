@@ -1,4 +1,4 @@
-## about ##
+## digit-recognition ##
 
 This is my attempt to create a digit recognition
 neural network from scratch (without machine learning
@@ -41,4 +41,4 @@ to visualize the model's accuracy.
 
 This project is licensed under the MIT license
 
-(c) 2024 Lucas Birkert
+(c) 2024 Lucas Birkert - All Rights Reserved
