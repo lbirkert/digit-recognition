@@ -6,7 +6,7 @@ frameworks, only numpy + math).
 
 ----
 
-`## Model infos ##`
+`## Model info ##`
 
 - It consists of one input layer (for the 28 * 28 grayscale
 pixel values), 2 hidden layers (each with 10 nodes) and
